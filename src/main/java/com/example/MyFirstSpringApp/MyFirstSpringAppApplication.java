@@ -14,4 +14,5 @@ public class MyFirstSpringAppApplication {
 		SpringApplication.run(MyFirstSpringAppApplication.class, args);
 	}
 
+
 }
